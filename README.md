@@ -73,3 +73,5 @@ If you want to experiment with it, feel free to modify the code and see what hap
 You are free to modify this project and create your own version based on it.
 
 # If you distribute a modified version, please give credit to the original project and clearly state that your version is based on this project.
+
+# note that this is an old version and anything on it will be changed or updated, so if you want to see new versions, check on my profile for new repositories.
