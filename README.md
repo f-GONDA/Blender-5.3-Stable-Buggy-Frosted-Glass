@@ -4,6 +4,8 @@
 This is basically the first stable version of 
 it.
 
+![Blender 5.3 Frosted Glass Preview](preview-S23FE-Blender5.3.jpg)
+
 # What is "Frosted Glass"?
 
 Frosted glass is a striking type of glass, known for its whitish, frosted, and translucent appearance.
